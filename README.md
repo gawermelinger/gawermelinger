@@ -8,7 +8,9 @@ Olá, sou uma dentista em transição de carreira para desenvolvimento web!
 ## Sobre mim
 
 💻 &nbsp;Desenvolvedora Front-end
-🆙 &nbsp;Cerficação pela CertiProf em Scrum Foundation Professional Certificate - SFPC  
+<br>
+🆙 &nbsp;Cerficação pela CertiProf em Scrum Foundation Professional Certificate - SFPC 
+<br>
 👨‍🏫 &nbsp;Formação em Angular pela Ada Tech
 
 ## 🛠️ Technologies and tolls
