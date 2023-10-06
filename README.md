@@ -1,4 +1,4 @@
-#Gabriella Wermelinger
+# Gabriella Wermelinger
 
 Olá, sou uma dentista em transição de carreira para desenvolvimento web!
 
